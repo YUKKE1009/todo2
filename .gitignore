@@ -1,0 +1,7 @@
+# MySQL data（Docker）
+docker/mysql/data
+mysql/data
+data/mysql
+
+# Dockerの一時ファイル
+docker/mysql
